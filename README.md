@@ -1,2 +1,3 @@
 # Movement_recognition_with_sensor_data
-The analysis of using sensor data to detect and recognize movements from pre-defined categories.
+
+- This part of the project involves experimentation and analysis of the use of sensor data to detect and recognize motion from pre-defined categories.
