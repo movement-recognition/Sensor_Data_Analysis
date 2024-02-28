@@ -10,7 +10,10 @@
 </a>
 </picture>
 
-
+```cmd
+(base) ➜  ~ python index.py
+This part of the project involves experimentation and analysis of the use of sensor data to detect and recognize motion from pre-defined categories.
+```
 
 ```js
 "DTAC Teilprojekt 2";
@@ -34,10 +37,7 @@ person = Person(
 person.sayHello()
 ```
 
-```cmd
-(base) ➜  ~ python index.py
-This part of the project involves experimentation and analysis of the use of sensor data to detect and recognize motion from pre-defined categories.
-```
+
 
 
 <!--x axis divider-->
