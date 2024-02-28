@@ -16,13 +16,22 @@
 "DTAC Teilprojekt 2";
 import { Teilprojekt } from 'DTAC';
 
-new Person({
-    name   : 'Jiahong Que',
-    title  : 'Hand of the Master of Coin, Lord of House Que of the Duck River',
-    address  : 'Pandias villa, Duck River, Esternland',
-    website: 'https://github.com/bill-unitech2021',
-    quote: 'Take my advise, I do not use it anyway.',
-}).sayHello();
+class Person:
+    def __init__(self, **kwargs):
+        self.__dict__.update(kwargs)
+
+    def sayHello(self):
+        print(f"Hello, my name is {self.name}. I am the {self.title}. You can find me at {self.address}. Check out my website: {self.website}. Here's a quote I like: '{self.quote}'")
+
+person = Person(
+    name='Jiahong Que',
+    title='Hand of the Master of Coin, Lord of House Que of the Duck River',
+    address='Pandias villa, Duck River, Esternland',
+    website='https://github.com/bill-unitech2021',
+    quote="Take my advise, I do not use it anyway."
+)
+
+person.sayHello()
 ```
 
 ```cmd
