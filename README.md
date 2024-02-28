@@ -2,7 +2,7 @@
 
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
 
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
@@ -30,12 +30,12 @@ This part of the project involves experimentation and analysis of the use of sen
 
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
 
 ![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+
 
 <div align="center">
     Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
