@@ -10,7 +10,7 @@
 </a>
 </picture>
 
-<!--x axis divider-->
+
 
 ```js
 "DTAC Teilprojekt 2";
@@ -21,7 +21,7 @@ new Persion({
     title  : 'Hand of the Master of Coin, Lord of House Que of the Duck River',
     address  : 'Pandias villa, Duck River, Esternland',
     website: 'https://github.com/bill-unitech2021',
-    quote: 'Take my advise, I don't use it anyway.',
+    quote: 'Take my advise, I do not use it anyway.',
 }).sayHello();
 ```
 
