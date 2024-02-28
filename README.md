@@ -28,7 +28,7 @@ class Person:
 
 person = Person(
     name='Jiahong Que',
-    title='Hand of the Master of Coin, Lord of House Que of the Duck River',
+    title='Hand of the King, Master of Coin, Lord of House Que of the Duck River',
     address='Pandias villa, Duck River, Esternland',
     website='https://github.com/bill-unitech2021',
     quote="Take my advise, I do not use it anyway."
