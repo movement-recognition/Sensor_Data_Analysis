@@ -16,7 +16,7 @@
 "DTAC Teilprojekt 2";
 import { Teilprojekt } from 'DTAC';
 
-new Persion({
+new Person({
     name   : 'Jiahong Que',
     title  : 'Hand of the Master of Coin, Lord of House Que of the Duck River',
     address  : 'Pandias villa, Duck River, Esternland',
