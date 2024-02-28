@@ -40,5 +40,5 @@ This part of the project involves experimentation and analysis of the use of sen
 
 
 <div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
+    Made with ❤️ by <a href="https://github.com/bill-unitech2021" target="_blank">Jiahong Que</a>
 </div>
